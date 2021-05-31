@@ -130,7 +130,7 @@ In this section, you will deploy the crowdsale to a local blockchain using Remix
 3. After purchasing tokens with one or more test accounts, view the total supply of minted tokens and the amount of wei that has been raised in the crowdsale contract.
 
 ## KaseiCoinCrowdSale Transaction
-![transaction_100wei](./Evaluations/crowdsale_100wei.gif)
+![transaction_10eth](./Evaluations/crowdsale_10eth.gif)
 
 #### Optional: Extend the Crowdsale Contract by Using OpenZeppelin
 
