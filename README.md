@@ -47,6 +47,11 @@ In this section, you will create a smart contract that defines KaseiCoin as an E
 
 8. Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the `README.md` file for your Challenge repository.
 
+## KaseiCoin Compiled
+![Kasei_compiled](./Evaluations/kasei_compiled.png)
+![Kasei_confirm](./Evaluations/kasei_confirmed.png)
+
+
 #### Create the KaseiCoin Crowdsale Contract
 
 In this section, you will define the KaseiCoin crowdsale contract. To do so, complete the following steps:
@@ -66,6 +71,10 @@ In this section, you will define the KaseiCoin crowdsale contract. To do so, com
 5. Check for any errors and debug as needed.
 
 6. Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the `README.md` file for your Challenge repository.
+
+## KaseiCoinCrowdSale Compiled
+![crowdsale_compiled](./Evaluations/kaseicoincrowdsale_compiled.png)
+
 
 #### Create the KaseiCoin Deployer Contract
 
@@ -106,6 +115,9 @@ Next, within the `KaseiCoinCrowdsaleDeployer` contract, add variables to store t
 
 7. Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the `README.md` file for your Challenge repository.
 
+## KaseiCoinCrowdSale Compiled
+![deployer_compiled](./Evaluations/kaseideployer_compiled.png)
+
 #### Deploy the Crowdsale to a Local Blockchain
 
 In this section, you will deploy the crowdsale to a local blockchain using Remix, MetaMask, and Ganache. To do so, complete the following steps. Record a short video or take screenshots that illustrate the three steps outlined below as evidence of your deployed crowdsale contract.
@@ -116,6 +128,9 @@ In this section, you will deploy the crowdsale to a local blockchain using Remix
 2. Test the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances associated with those accounts.
 
 3. After purchasing tokens with one or more test accounts, view the total supply of minted tokens and the amount of wei that has been raised in the crowdsale contract.
+
+## KaseiCoinCrowdSale Transaction
+![transaction_5eth](./Evaluations/crowdsale_5eth.gif)
 
 #### Optional: Extend the Crowdsale Contract by Using OpenZeppelin
 
